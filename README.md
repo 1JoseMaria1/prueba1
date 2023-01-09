@@ -2,4 +2,4 @@
 ## Instalación
 ## Despliegue
 ## Paso 1 
-## Paso2
+## Paso 2
